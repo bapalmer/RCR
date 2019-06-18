@@ -1,7 +1,7 @@
 [<img align="left" width="100" height="100" src="https://libapps-eu.s3.amazonaws.com/accounts/138263/images/VPRI_Digital_Badge_in_Responsible_Conduct_of_Research_v2.png">](https://libguides.ucc.ie/researchdataservice/trainingandsupport)
 # RCR
  
-The digital badge in the **R**esponsible **C**onduct of **R**esearch is broken up into the following section:
+The digital badge in the **R**esponsible **C**onduct of **R**esearch is broken up into the following sections:
 
 1. Research integrity - [Office of Vice President for Research & Innovation, UCC](https://www.ucc.ie/en/research/)
 2. Data management plans and FAIR - [Research Data Service, UCC Library](https://libguides.ucc.ie/researchdataservice)
