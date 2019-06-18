@@ -3,6 +3,7 @@
 
 
 
+
 Final element of the **R**eproducible **C**onduct of **R**esearch digital badge offer in University College Cork, Ireland. This section is tasked with introducing researchers to reproducible research practices. 
 
 The content is broken up into the following section:
