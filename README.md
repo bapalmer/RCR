@@ -13,5 +13,5 @@ For more details about the digital badge, please click on the image below.
 ## Reproducible research practices
 This portion of the session is broken up into three parts
 - An introduction to reproducible research
-- Intutiative project organisation practices
+- Intuitive project organisation practices
 - An example reproducible research workflow, using the 'FAIRified' data from Section 2.
