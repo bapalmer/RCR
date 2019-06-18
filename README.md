@@ -4,8 +4,8 @@
 Final element of the **R**eproducible **C**onduct of **R**esearch digital badge offered in University College Cork, Ireland. This section is tasked with introducing researchers to reproducible research practices. 
 
 The content is broken up into the following section:
-1. Research integrity - [Office of Vice President for Research & Innovation](https://www.ucc.ie/en/research/)
-2. Data management plans and FAIR - [Research Data Service, UCC Library)](https://libguides.ucc.ie/researchdataservice)
+1. Research integrity - [Office of Vice President for Research & Innovation, UCC](https://www.ucc.ie/en/research/)
+2. Data management plans and FAIR - [Research Data Service, UCC Library](https://libguides.ucc.ie/researchdataservice)
 3. Reproducible research practices - [Statistics & Data Analysis Unit, Clinical Research Facility - Cork](https://crfc.ucc.ie/)
 
 For more details about the digital badge, and contact information if you wish to book a place on the course, please click on the image above.
