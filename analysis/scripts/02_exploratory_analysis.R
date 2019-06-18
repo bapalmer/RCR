@@ -138,7 +138,6 @@ data_overview2
 #       dpi = 300,
 #       units = "cm")
 
-
 # Biomass -----------------------------------------------------------------
 
 biomass_overview <- data %>%

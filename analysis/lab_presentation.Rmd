@@ -31,10 +31,18 @@ library(beeswarm)
     - For the first 7 days, no filter used
     - Plants were sampled without replacement
         - Same baseline used for each filter
+        
+# Questions to ask of the data
+
+- $H_{o}$: $\mu_{red}$ = $\mu_{cos}$ = $\mu_{sky}$
+    - Mean falvonoid content of lettuce varieties is the same
+
+- $H_{o}$: $\mu_{ca}$ = $\mu_{ptp}B$ = $\mu_{my}$
+    - Mean flavonoid content of lettuce grown under different filters is the same
 
 # Initial analysis
 
-```{r fig.width=8, fig.height=5,echo=FALSE}
+```{r fig.width=8, fig.height=4,echo=FALSE}
 
 img <- readPNG("plots/2019-06-17_overview1_flavonoids.png")
  grid.raster(img)
@@ -43,14 +51,14 @@ img <- readPNG("plots/2019-06-17_overview1_flavonoids.png")
 
 # Initial analysis
 
-```{r fig.width=8, fig.height=5,echo=FALSE}
-img <- readPNG("plots/2019-06-17_overview2_flavonoids.png")
+```{r fig.width=8, fig.height=4,echo=FALSE}
+img <- readPNG("plots/2019-06-18_overview2_flavonoids.png")
  grid.raster(img)
 ```
 
 # Initial analysis
 
-```{r fig.width=8, fig.height=5,echo=FALSE}
+```{r fig.width=8, fig.height=4,echo=FALSE}
 img <- readPNG("plots/2019-06-18_biomass_overview.png")
  grid.raster(img)
 ```
