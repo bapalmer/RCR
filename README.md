@@ -1,2 +1,2 @@
 # RCR
-Section of the UCC Reproducible Conduct of Research digital badge dedicated to exposing researchers to reproducible research practices.
+Final element of the Reproducible Conduct of Research digital badge offer in University College Cork, Ireland. This section is tasked with introducing researchers to reproducible research practices.
