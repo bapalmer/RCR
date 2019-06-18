@@ -16,4 +16,4 @@ This repository contains the lecture notes and materials that form part Section 
 This portion of the session is broken up into three parts
 - An introduction to reproducible research
 - Intuitive project organisation practices
-- An example reproducible research workflow, using the 'FAIRified' data from Section 2.
+- An example reproducible research workflow, using the 'FAIRified' data from Section 2
