@@ -7,7 +7,7 @@
 
 source("scripts/01_data_clean.R")
 
-# Lettuce data preliminary plot ---------------------------------------------
+# Lettuce data preliminary plot -------------------------------------------
 
 # Plot 1 - early on in the project
 
