@@ -74,7 +74,7 @@ data %>%
 ```
 
 
-## Statisital tests
+## Statistical tests
 
 This table summarises the statistical tests we conducted in the script `03_analysis.R`.
 
