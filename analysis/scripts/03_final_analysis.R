@@ -5,7 +5,6 @@
 
 # Read in the clean lettuce data ------------------------------------------
 
-library(broom)
 source("scripts/01_data_clean.R") 
 
 # Based on the intial plots we'll perform a test on differences of
