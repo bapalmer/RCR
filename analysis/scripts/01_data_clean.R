@@ -17,7 +17,7 @@ data <- read_csv("data/raw_data/rawdata_flavonoids.csv")
 
 # View(data)
 
-# Check the data dcitionary
+# Check the data dictionary
 
 dict <- read_delim("data/data_dictionary_AC.txt", 
                    "\t", escape_double = FALSE, trim_ws = TRUE)
@@ -47,10 +47,11 @@ data <- data %>%
 
 # Save a copy of the clean data -------------------------------------------
 
-# write_csv(raw_data,
+# write_csv(data,
 #          paste("data/",
 #                Sys.Date(),
 #                "_clean_lettuce_data.csv",
 #                sep = ""))
 
 rm(dict)
+
