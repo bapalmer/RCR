@@ -17,3 +17,9 @@ This portion of the session is broken up into three parts
 - An introduction to reproducible research
 - Intuitive project organisation practices
 - An example reproducible research workflow, using the 'FAIRified' data from Section 2
+
+## Packaged data, code and reports
+<!-- badges: start -->
+[![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bapalmer/RCR/master?urlpath=rstudio)
+<!-- badges: end -->
+

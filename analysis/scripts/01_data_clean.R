@@ -5,7 +5,12 @@
 
 # Load the required packages
 
-library(tidyverse)
+library(magrittr)
+library(readr)
+library(tidyr)
+library(dplyr)
+library(ggplot2)
+library(magrittr)
 library(lubridate)
 library(summarytools)
 library(ggbeeswarm)
